@@ -21,4 +21,3 @@ env/
 # Logs
 *.log
 app/__pycache__/*
-Laya/*
